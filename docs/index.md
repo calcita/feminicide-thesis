@@ -1,0 +1,19 @@
+--- 
+title: "Una aproximación espacial a los feminicidios ocurridos en Uruguay"
+author: "Gabriela Mathieu"
+date: "27 de julio de 2021"
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography: [book.bib]
+#biblio-style: apalike
+link-citations: yes
+github-repo: calcita/feminicide-thesis
+url: ''
+description: "Tesis de maestría"
+#cover-image: "IMG_20181221_143629.jpg"
+#favicon: "images/favicon.ico"
+---
+
+# Prefacio {-}
+
+
