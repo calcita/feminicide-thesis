@@ -1,0 +1,29 @@
+bookdown::gitbook:
+  css: style.css
+  highlight: pygments
+  split_by: chapter
+  config:
+    toc:
+      collapse: subsection
+      before: |
+        <li><a href="./">Starting with R</a></li>
+      after: |
+        <li><a href="https://github.com/calcita" target="blank">Gabriela Mathieu CC-BY-SA</a></li>
+    search: yes
+    download: no
+    edit:
+      link: https://github.com/calcita/R-tutorial/edit/main/%s
+      text: "Suggest an edit"
+    sharing:
+      github: no
+      facebook: no
+      twitter: no
+      all: no
+always_allow_html: yes
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+bookdown::epub_book:
+  stylesheet: style.css

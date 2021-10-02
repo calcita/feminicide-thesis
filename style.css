@@ -1,0 +1,36 @@
+/* -----------div tips------------- */
+
+  div.bombilla, div.fyi, div.cohete, div.ok {
+    padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    color: #1f5386;
+    background-color: #bed3ec;
+    border: solid 5px #dfedff;
+  }
+
+div.bombilla {
+  background-image: url("images/bombilla.png");
+  font-family: "Caveat";
+  background-color: #b3e2cd;
+}
+
+div.fyi {
+ background-image: url("images/information.png");
+}
+
+div.cohete {
+  background-image: url("images/cohete.png");
+  background-color: #fdcdac;
+}
+
+div.ok {
+  background-image: url("images/ok.png");
+  background-color: #ffffb3;
+}
+
+
