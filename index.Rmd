@@ -8,7 +8,7 @@ documentclass: book
 #biblio-style: apalike
 link-citations: yes
 github-repo: calcita/feminicide-thesis
-url: 'https://calcita.github.io/feminicide-thesis/'
+url: ''
 description: "Tesis de maestría"
 #cover-image: "IMG_20181221_143629.jpg"
 #favicon: "images/favicon.ico"
