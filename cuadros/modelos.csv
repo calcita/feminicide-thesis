@@ -1,0 +1,19 @@
+Modelo,Parámetro,Estimación,P-valor,Significativo
+Municipios,,,,
+,constante,"-0,04661","0,8086",no
+,ipp,"0,02978","0,0286",sí
+CCZ,,,,
+,constante ,"-0,01227",,no
+,ipp,"0,03001",,sí
+Barrios *,,,,
+,constante ,"1,12545","0,00247",sí
+,ipp,"0,04904","0,01759",sí
+Municipios (solo vivienda),,,,
+,constante,"-0,57931","0,107",no
+,ipp,"0,02758","0,176",no
+CCZ (solo vivienda),,,,
+,constante ,"-0,24924","0,292",no
+,ipp,"0,01373","0,309",no
+Barrios* (solo vivienda),,,,
+,constante ,"0,74236","0,00934",sí
+,ipp,"0,03046","0,05539",no

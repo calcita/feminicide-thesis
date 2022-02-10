@@ -2,6 +2,14 @@ book_filename: "thesis"
 chapter_name: "Capítulo "
 repo: https://github.com/calcita/feminicide-thesis
 output_dir: docs
-rmd_files: ["index.Rmd", "resumen.Rmd", "abstract.Rmd"]
+rmd_files: ["index.Rmd", "resumen.Rmd", "abstract.Rmd", "dedicatoria.Rmd", "abreviaturas.Rmd", 
+"introduccion.Rmd", "chapter1.Rmd", "chapter2.Rmd", "chapter3.Rmd", "chapter4.Rmd", "chapter5.Rmd",
+"chapter6.Rmd", "chapter7.Rmd", "anexo.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
+language:
+  label:
+    fig: 'Gráfico '
+    tab: 'Tabla '
+    eq: 'Ecuación '
+    remark: 'Nota: '

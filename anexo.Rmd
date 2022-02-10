@@ -1,0 +1,25 @@
+# Anexo
+
+
+El Protocolo del Inmujeres orienta conceptual y metodológicamente a los equipos técnicos de los servicios y contribuye a garantizar la calidad de la atención de las mujeres afectadas y a la restitución de sus derechos. Para un abordaje efectivo de estas situaciones, considera una serie de factores de riesgo que ponen en peligro la vida de las mujeres y sus
+hijas/os que muchas veces no es percibido por la propia víctima. Por lo tanto, es clave la
+valoración del riesgo por parte de las operadoras y operadores, que permite definir las
+prioridades de la intervención y por ende los procedimientos a seguir (Inmujeres, s.d.).
+
+Dentro de los factores de riesgo para valorar las situaciones de VD hacia mujeres, en la
+dimensión de contexto se encuentra la valoración de la situación socioeconómica. Existe una
+extensa literatura económica sobre la medición de la pobreza, autonomía económica e ingresos de las personas. Esta investigación pretende aportar elementos para una medición indirecta de estas variables. En 2016 representantes de las instituciones que integran el SRI y CNC hicieron una puesta en común y revisión de los factores de riesgo asociados a las situaciones de VBG en diferentes dimensiones:
+
+    > El proceso de atención tiene distintas etapas que varían según el momento del ciclo de la violencia, las estrategias de dominación conyugal, el reconocimiento de la situación de violencia, los daños y el contexto general de la situación por la cual se consulta. El plan de trabajo implica organizar la demanda, ver las dimensiones que emergen de la aproximación diagnóstica, que incluye el análisis de otros derechos de las mujeres que  pueden estar siendo vulnerados e inciden en la salida a su situación: vivienda, trabajo (ingresos propios), educación, tiempo de cuidados de personas dependientes, salud, redes familiares y comunitarias, entre otros (Inmujeres, s.d., p. 73).
+    
+En la Tabla 7 se detallan los factores considerados en cada dimensión.
+
+<!-- tabla 7 -->
+```{r, echo = FALSE, fig.pos="H", fig.cap="Factores de riesgo"}
+library(knitr);
+library(kableExtra)
+tab <- read.csv("cuadros/factores_riesgo.csv")
+kable(tab, format = "html", booktabs = TRUE, caption = "Factores de riesgo", col.names = c("Relativos a la mujer", "Relativos al varón", "Relacionales", "Contexto")) %>%
+  kableExtra::kable_styling(font_size = 12, latex_options = c("striped", "hold_position")) %>%  column_spec(column = 1:4, width = "4cm", border_right = F) %>% 
+  footnote(general_title = "Fuente:", general = "Tomado del Protocolo de intervención de Inmujeres")
+```

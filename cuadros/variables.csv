@@ -1,0 +1,9 @@
+Variable ,Descripción,Completitud
+coordenadas,"Latitud, Longitud",22%
+fecha,fecha del crimen (yy-mm-dd),100%
+lugar,"Lugar del crimen (vivienda, espacio público, etc.)",88%
+edad,Edad de la mujer asesinada,97%
+edad_feminicida,Edad del feminicida,52%
+vinculo,Tipo de vínculo entre la víctima y el feminicida,87%
+localidad ,Localidad donde ocurrió el feminicidio,100%
+departamento,Departamento donde ocurrió el feminicidio,100%
