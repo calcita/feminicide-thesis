@@ -1,4 +1,4 @@
-# Anexo
+# Anexo {-}
 
 
 El Protocolo del Inmujeres orienta conceptual y metodológicamente a los equipos técnicos de los servicios y contribuye a garantizar la calidad de la atención de las mujeres afectadas y a la restitución de sus derechos. Para un abordaje efectivo de estas situaciones, considera una serie de factores de riesgo que ponen en peligro la vida de las mujeres y sus

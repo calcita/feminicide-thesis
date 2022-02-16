@@ -1,5 +1,5 @@
 --- 
-title: "Una aproximación espacial a los feminicidios ocurridos en Uruguay"
+title: "Una aproximación espacial a los femi(ni)cidios  en Uruguay entre 2001 y 2019"
 author: "Gabriela Mathieu"
 date: "27 de julio de 2021"
 site: bookdown::bookdown_site
@@ -30,3 +30,15 @@ El 6 de julio de 1914 la gran poeta uruguaya [Delmira Agustini](https://es.wikip
 
 
 <!-- render_book(input = "index.Rmd", config_file = "_bookdown.yml") -->
+
+# Nota {-}
+
+Tesis de Maestría en Género y Políticas de Igualdad, FLACSO-Uruguay.
+
+Defensa: Julio 2021
+
+Tutora: Dra. Erika Van Rompaey
+
+Lectoras: Mag. Natalia Guidobono Genisans, Mag. Inés Martínez Echagüe
+
+Link a la versión en pdf: https://repositorio.flacsoandes.edu.ec/handle/10469/17369
